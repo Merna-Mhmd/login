@@ -1,0 +1,38 @@
+body {
+   background-color: #24353F;
+   font-family: sans-serif;
+
+  }
+
+  .form-control:focus 
+  {
+  border-color: #17a2b8;
+  box-shadow: none;
+}
+h1{
+  font-size: 40px;
+  color: #17a2b8;
+
+}
+
+.login-btn .btn{
+  border: 1px solid #17a2b8;
+  color: #17a2b8;
+}
+.login-btn .btn:hover{
+  background-color: #17a2b8;
+  color: white;
+}
+.input input::placeholder{
+  color:grey
+}
+.question  a:hover{
+ text-decoration:  underline !important;
+}
+.box{
+  box-shadow:10px 10px 30px 8px rgba(0,0,0,0.8) ;
+
+}
+p{
+  color: #17a2b8;
+}
